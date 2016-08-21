@@ -1,0 +1,7 @@
+[package]
+name = "pwdapp"
+version = "0.1.0"
+authors = ["OZ <normandiggs@gmail.com>"]
+license = "MPL-2.0"
+
+[dependencies]
